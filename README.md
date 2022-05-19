@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🔭 I’m currently working on some projects...
+### - 😄 My name is Jose Paredes
 ### - 🌱 I’m currently learning DataSciencist in TheBridge.tech
 ### - 📫 How to reach me: jparedescolmenarejo@gmail.com
 
