@@ -1,7 +1,7 @@
 ### Hi there 👋
-## 🔭 I’m currently working on some projects...
-## 🌱 I’m currently learning DataSciencist in TheBridge.tech
-## 📫 How to reach me: jparedescolmenarejo@gmail.com
+### 🔭 I’m currently working on some projects...
+### 🌱 I’m currently learning DataSciencist in TheBridge.tech
+### 📫 How to reach me: jparedescolmenarejo@gmail.com
 
 <!--
 **chitoparedes/chitoparedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
