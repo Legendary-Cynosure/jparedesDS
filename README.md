@@ -3,7 +3,7 @@
 ### - 🪐 I’m a Data Scientist Jr.
 ### - 👀 I’m interested in Machine learning, Deep learning, AI, NLP, Computer Vision and Data analysis.
 ### - 🔭 I’m currently working on a project to create an API and database for Crossfit sporting events nationwide and Kaggle.com Competitions.
-### - 💞 Hobbies: Climbing and esports enthusiast.
+
 ### - 🏆 Kaggle profile: https://www.kaggle.com/joseparedesc ( 3º Position in Image Multilabel Classification - "Futurama frames" )
 ### - 📫 How to reach me: https://www.linkedin.com/in/jparedesDS or jparedescolmenarejo@gmail.com
 
@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### - 💞 Hobbies: Climbing and esports enthusiast.
 -->
