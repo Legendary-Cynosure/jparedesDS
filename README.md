@@ -1,5 +1,6 @@
 ### Hi there 👋
-### - 😄 My name is Jose Paredes, Im Data Scientist Jr.
+### - 😄 My name is Jose Paredes 
+### - 🪐 Im Data Scientist Jr.
 ### - 👀 I’m interested in Machine learning, Deep learning, AI, NLP, Computer Vision and Data analysis.
 ### - 🔭 I’m currently working on a project to create an API and database for Crossfit sporting events nationwide and Kaggle.com Competitions.
 ### - 💞 Hobbies: Climbing and esports enthusiast.
