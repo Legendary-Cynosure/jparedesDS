@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### - 😄 My name is Jose Paredes from Madrid/Spain. 
-### - 🪐 I’m a Data Scientist Jr and I am interested in Machine learning, Deep learning, AI, NLP, Computer Vision and Data analysis.
+### - 🪐 I’m a Data Scientist Jr.
+### - 👀 I’m interested in Machine learning, Deep learning, AI, NLP, Computer Vision and Data analysis.
 ### - 🔭 I’m currently working on a project to create an API and database for Crossfit sporting events nationwide and Kaggle.com Competitions.
 ### - 💞 Hobbies: Climbing and esports enthusiast.
 ### - 🏆 Kaggle profile: https://www.kaggle.com/joseparedesc (3º Position in Image Multilabel Classification - "Futurama frames")
