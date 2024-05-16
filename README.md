@@ -2,7 +2,7 @@
 ### - 😄 My name is Jose Paredes from Madrid/Spain. 
 ### - 🪐 I’m a Data Scientist Jr.
 ### - 👀 I’m interested in Machine learning, Deep learning, AI, NLP, Computer Vision and Data analysis.
-### - 🔭 Currently working for EIPSA S.L., automating data entry from email to database and generating tracking reports for incoming documentation.
+### - 🔭 Currently working for EIPSA S.A., automating data entry from email to database and generating tracking reports for incoming documentation.
 
 ### - 🏆 Kaggle profile: https://www.kaggle.com/joseparedesc ( 3º Position in Image Multilabel Classification - "Futurama frames" )
 ### - 📫 How to reach me: https://www.linkedin.com/in/jparedesDS or jparedescolmenarejo@gmail.com
