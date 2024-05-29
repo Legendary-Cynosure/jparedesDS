@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=jparedesDS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
 ### - 😄 My name is Jose Paredes from Madrid/Spain. 
 ### - 🪐 I’m a Data Scientist Jr.
