@@ -6,11 +6,11 @@
 ### - ⚡ Hobbies: Climbing and esports enthusiast.
 ### - 🏆 Kaggle profile: https://www.kaggle.com/joseparedesc ( 3º Position in Image Multilabel Classification - "Futurama frames" )
 ### - 📫 How to reach me: https://www.linkedin.com/in/jparedesDS or jparedescolmenarejo@gmail.com
-[![trophy](https://github-profile-trophy.vercel.app/?username=jparedesDS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **jparedesDS/jparedesDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jparedesDS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
