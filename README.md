@@ -1,12 +1,13 @@
 ### Hi there 👋
+### - 💬 This is My Portfolio [[link]](https://jparedesDS.github.io)
 ### - 😄 My name is Jose Paredes from Madrid/Spain. 
 ### - 🪐 I’m a Data Scientist Jr.
 ### - ⚡ Hobbies: Climbing and esports enthusiast.
 ### - 👀 I’m interested in Machine learning, Deep learning, NLP, Computer Vision and Data analysis.
 ### - 🔭 Currently generating object detection models for metallurgy companies. Working for EIPSA S.A., automating data entry to the database, generating tracking reports of received documentation and identification of technical drawings through deep learning. 
-### - 🏆 3º Position in Image Multilabel Classification - "Futurama frames" - (https://www.kaggle.com/competitions/comp-mediavida-2-futurama/leaderboard)
-### - ⚡ ALL my models for Object Detection - (https://huggingface.co/jparedesDS)
-### - 📫 How to reach me: https://www.linkedin.com/in/jparedesDS or jparedescolmenarejo@gmail.com
+### - 🏆 3º Position in Image Multilabel Classification - "Futurama frames" - [[link]](https://www.kaggle.com/competitions/comp-mediavida-2-futurama/leaderboard)
+### - ⚡ ALL my models for Object Detection - [[link]](https://huggingface.co/jparedesDS)
+### - 📫 Feel free to contact to me: <jparedescolmenarejo@gmail.com>
 
 
 <!--
