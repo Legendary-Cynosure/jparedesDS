@@ -29,7 +29,7 @@
     </a>
     <!-- Portfolio Link -->
     <a href="https://jparedesDS.github.io" target="_blank">
-      <img src=https://img.shields.io/badge/web-%232E3440.svg?&style=for-the-badge&logo=web&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+      <img src=https://img.shields.io/badge/portfolio-%232E3440.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
     </a>
     <!-- Twitter link -->
     <a href="https://twitter.com/xhitoCS" target="_blank">
