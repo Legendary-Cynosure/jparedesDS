@@ -11,13 +11,17 @@
 <!-- Connect with me div -->
 <div>
   <div align="center">
-  <!-- Github link -->
+    <!-- Github link -->
     <a href="https://github.com/jparedesDS" target="_blank">
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <!-- Linkedin Link -->
     <a href="https://www.linkedin.com/in/jparedesDS/" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <!-- Linkedin Link -->
+    <a href="https://jparedesDS.github.io" target="_blank">
+      <img src=https://img.shields.io/badge/portfolio-%232E3440.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
     </a>
     <!-- Twitter link -->
     <a href="https://twitter.com/jparedesDS" target="_blank">
