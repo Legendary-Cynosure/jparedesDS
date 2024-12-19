@@ -19,7 +19,15 @@
     <a href="https://www.linkedin.com/in/jparedesDS/" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <!-- Linkedin Link -->
+    <!-- HuggingFace link -->
+    <a href="https://huggingface.co/jparedesDS" target="_blank">
+      <img src=https://img.shields.io/badge/huggingface-%232E3440.svg?&style=for-the-badge&logo=huggingface&logoColor=white alt=huggingface style="margin-bottom: 5px;" />
+    </a>
+    <!-- Kaggle link -->
+    <a href="https://www.kaggle.com/joseparedesc" target="_blank">
+      <img src=https://img.shields.io/badge/kaggle-%232E3440.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+    </a>
+    <!-- Portfolio Link -->
     <a href="https://jparedesDS.github.io" target="_blank">
       <img src=https://img.shields.io/badge/portfolio-%232E3440.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
     </a>
